@@ -107,3 +107,37 @@ Food: 2 meat + 1 vegetable+ 1 toufu
 Price: $7.4  
 Recommend: 6/10  
 Does the job
+
+## SG Food (12) The Kiosk Desserts
+Location: Bagus/Cantine by Kopitiam in Paya Lebar Square B1
+Food: French Toast Set
+Price: $3.8
+Recommend: 10/10
+The green one is kaya, a coconut jam made with pandan. The toast and kaya are super shiok. The teh is super fragrant too.
+
+## SG Food (13) Asia Wok
+Location: Timbre+ One North
+Food: 三捞河粉 San Lao Hor Fun
+Price: $6.3
+Recommend: 8/10
+非常可口
+
+![img.png](../assets/SG-Food/IMG_0051.HEIC)
+test
+![img.png](img.png)
+
+## SG Food (14) Bibimbap/Dosirak
+Location: Kinex Mall B1-K5
+Food: Hotstone Bibimbap Chicken 石锅拌饭鸡肉
+Price: $7.8
+Recommend: 8/10
+Good meat and veg balance, not bad.
+
+
+## SG Food (15) 欣美粥品
+Location: Old Airport Road Food Centre
+Food: 猪肉粥 Pork Congee
+Price: $4.5
+Recommend: 8/10
+这个油条太好吃了
+Btw, this is the biggest food Centre I’ve seen so far.
