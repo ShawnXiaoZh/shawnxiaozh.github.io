@@ -119,12 +119,8 @@ The green one is kaya, a coconut jam made with pandan. The toast and kaya are su
 Location: Timbre+ One North
 Food: 三捞河粉 San Lao Hor Fun
 Price: $6.3
-Recommend: 8/10
-非常可口
-
-![img.png](../assets/SG-Food/IMG_0051.HEIC)
-test
-![img.png](https://www.icloud.com/sharedalbum/#B1oJtdOXm7j0HVT;2497A31D-DD34-47F1-9642-1CB300718485)
+Recommend: 9/10
+very tasty food and it's in a super cool food park, got live music and folks dancing.
 
 ## SG Food (14) Bibimbap/Dosirak
 Location: Kinex Mall B1-K5
@@ -139,5 +135,5 @@ Location: Old Airport Road Food Centre
 Food: 猪肉粥 Pork Congee
 Price: $4.5
 Recommend: 8/10
-这个油条太好吃了
+The youtiao is so good.
 Btw, this is the biggest food Centre I’ve seen so far.
