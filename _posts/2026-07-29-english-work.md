@@ -478,6 +478,50 @@ incident calls, design reviews, status updates. The everyday half lives in
      - On the engineering side of things, we're still investigating.
      - 划分讨论范围的口语说法：on the business side of things、on my side of things。比 regarding engineering 自然得多。
 
+117. **productivity gains** — 生产力提升、效率收益
+     - There are some individual productivity gains, but there's no institutional velocity.
+     - gains 是"收益、增量"，不是 games——语速快时两个词几乎同音，靠搭配判断：跟 productivity / efficiency / cost 连用的一定是 gains。个人层面说 individual gains，全公司层面说 organization-wide gains。
+
+118. **institutional velocity** — 组织级速度（整个机构作为一个整体前进的快慢）
+     - There are some individual productivity gains, but there's no institutional velocity.
+     - institutional 指"机构/制度层面的"，永远是和 individual 对着说的。velocity 借自敏捷开发的"团队速度"，比 speed 多一层"单位时间内交付多少"的含义。这句的潜台词是：个体提效没有汇总成组织提效。
+
+119. **come into the picture** — 登场、开始发挥作用
+     - And that's where Amazon comes into the picture.
+     - 指某个角色在当前局面里开始变得相关。更短的口语版是 that's where X comes in。反过来 out of the picture 是"出局、不在考虑范围内"。
+
+120. **fragmentation** — 碎片化、各自为政
+     - And then, of course, the fragmentation will follow.
+     - 指工具、流程、数据被拆得零散、互不打通。动词 fragment，形容词 fragmented：a fragmented toolchain。这里的 follow 是"随之而来"，the … will follow 常用来断言一个必然的后果。
+
+121. **pull ahead** — 拉开领先身位、跑到前面去
+     - The teams that pull ahead aren't the ones that prompt better.
+     - 来自赛跑/赛车："从并排的位置超到前面"。强调的是相对差距被拉开，不是绝对的快——所以主语通常是竞争关系中的一方（团队、公司、选手）。近义 get ahead（更泛，指个人上位）、outpace sb（明确说超过谁）。落后是 fall behind。
+
+122. **campaign** — 战役、有目标分阶段推进的一整轮行动
+     - One engineer, one prompt, one task — versus campaigns, which persist all the context.
+     - 日常义是 marketing / political / military campaign，共同点是"有一个目标，要打好几仗才拿得下，中间有计划、有协作、持续一段时间"，和 task 的一次性正相反。AI agent 工具借的就是这层意思：一个 campaign 是"一件要打完的事"，规划、实现、评审都挂在它下面，上下文跨 session 保留。发起用 launch / run a campaign。
+
+123. **whereby** — 借此、由此（= by which）
+     - It has this concept of campaigns, whereby it will persist all the context.
+     - 正式的关系副词，引出"通过这个机制会怎样"：a process whereby every change is reviewed。书面语，口语和普通邮件说 where / in which / and that way 更自然。注意它不能单独起句，必须挂在前面的名词上。
+
+124. **versus**（口语用法）— 而不是、相比之下
+     - One engineer, one prompt, one task — versus in end zone, it actually has campaigns.
+     - 书面的 A vs B 是并列对照；但口语里 versus 常当连词用，等于 as opposed to，后面可以直接跟一整个从句（versus in end zone, it has…），语法上不严谨但会上很常见。中文使用者一般只会写 vs 不会说，值得刻意练。缩写 vs.（法律文书用 v.）。
+
+125. **delivery / deliver** — 交付；（不及物）兑现、做到
+     - It doesn't necessarily have to be code delivery. / He talks a lot but never delivers.
+     - 词根是"送货"，所以隐含"交到谁手上"——写完不算 delivery，交出去才算。已抽象成领域词：code delivery、delivery date、a delivery team、continuous delivery。最值得练的是不及物的 deliver（兑现、做到）：Can he deliver? / The team delivered. 中文没有对应说法，绩效语境高频。第三义指讲话的表达方式：His delivery was flat（内容也许不错，但讲得很平）。和 ship 的分工：ship 更口语、强调"发出去了"，delivery 更正式、强调"承诺的东西兑现了"。
+
+126. **promote** — 晋升；推广、力推；促进
+     - We want to promote end zone at this point. / He was promoted to staff engineer.
+     - 词源是 pro-（向前）+ movere（移动），本质就是"把某个东西往前/往上推"，中文拆成了三个词但英文是同一个动作，只看对象：对人是晋升（多用被动），对产品/工具是内部推广，对抽象状态是促进（This policy promotes collaboration）。"推广"别译成 popularize，那个词很生硬、基本只用于学术。名词 promotion 同样一词多义：既是晋升（I got a promotion），也是促销（it's on promotion）。近义 drive adoption（最中性的管理说法）、champion sth（当推手、力挺）、evangelize（布道，语气最重）。注意 promote 不表示"打折"，打折是 discount。
+
+127. **coordination overhead** — 协调成本、对接开销
+     - The third problem is coordination overhead — after you develop, you need to do code review; after code review, you need to remember to deploy.
+     - overhead 是"不直接产出价值、但为了让事情转起来必须付的额外代价"。coordination overhead 特指卡在环节之间的那部分：记得通知谁、等谁批、手动把产物搬到下一步。同类搭配：communication overhead、operational overhead、the overhead of doing sth。注意它不可数，不说 an overhead（英式偶尔例外）。
+
 ## 常见句型
 
 1. **be on board** — 同意、支持
