@@ -2,6 +2,7 @@
 layout: post
 title: "图论 · Floyd-Warshall"
 date: 2027-05-01
+tags: [leetcode, 图论]
 ---
 
 求解图中任意两点的最短路径的算法。算法以三重循环考察任意顶点`i`到任意顶点`j`是否有经过任意顶点`k`的可松弛路径，即对每一个顶点k，考察是否有`d(i, k) + d(k, j) < d(i, j)`，若有则更新`d(i,j) = d(i, k) + d(k, j)`。
